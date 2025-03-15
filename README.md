@@ -8,4 +8,5 @@ Dual-LVT is evaluated on the RADCURE dataset, a publicly available collection of
 - High-resolution CT scans from diverse imaging devices.
 - Expert-annotated tumor segmentation masks for training and evaluation.
 - Clinical notes from radiation oncologists, which are utilized by LLMs to improve segmentation accuracy.
+- 
 For more information and to download the dataset, please visit the **[official RADCURE website](https://www.cancerimagingarchive.net/collection/radcure/)**.
