@@ -1,4 +1,4 @@
-# Dual-LVT: A Dual Attention Language-Vision Transformer for Tumor Segmentation - MICCAI 2025 (under review)
+# Dual-LVT: A Dual Attention Language-Vision Transformer for Tumor Segmentation
 
 ## Overview
 Dual-LVT is a multimodal segmentation model that fully integrates large language models (LLMs) to enhance medical image analysis. It employs a dual attention mechanism, where language features from LLM-generated clinical notes serve as queries to guide segmentation, enabling a more effective fusion of vision and text. Additionally, the Adaptive Hounsfield Unit (AdaHU) Clipping Module dynamically adjusts CT preprocessing, improving robustness across imaging devices. Evaluated on the RADCURE CT dataset, Dual-LVT outperforms existing methods in accuracy and reliability.
